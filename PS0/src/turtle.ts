@@ -69,3 +69,11 @@ export class SimpleTurtle implements Turtle {
     return this.path;
   }
 }
+
+
+
+
+
+
+
+
